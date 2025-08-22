@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/rishikesh2003/my-portfolio"
   },
+  "packageManager": "npm@10.9.3",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",

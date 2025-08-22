@@ -1,12 +1,11 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  name: "송해원",
+  location: "대전 광역시",
+  email: "shw112013@gmail.com",
+  github: "https://github.com/rippleeffect123",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "안녕하십니까.",
 };
 
 export const workExperience = [

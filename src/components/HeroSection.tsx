@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+              Web Developer 👨‍💻
             </motion.p>
 
             <motion.div
@@ -86,17 +86,7 @@ export default function HeroSection() {
                 🌟 GitHub
               </motion.a>
 
-              <motion.a
-                href={personalInfo.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
-                variants={childVariants}
-                whileHover={{ scale: 1.05, color: "#4b5563" }}
-              >
-                <Linkedin className="h-4 w-4 mr-2" />
-                🔗 LinkedIn
-              </motion.a>
+
             </motion.div>
           </div>
 
