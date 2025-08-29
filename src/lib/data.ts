@@ -50,24 +50,34 @@ export const education = [
   {
     institution: "한국폴리텍IV대학 대전캠퍼스",
     location: "대전광역시 동구",
-    degree: "스마트소프트웨어학과",
-    period: "2015 - 2019",
+    degree: "스마트소프트웨어과",
+    period: "2024 - 현재",
     achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
+      "봉사동아리 '세옹' 회장",
+      "부 학과대표",
+      "해원의 난 일으킴",
+      "현 학과대표",
     ],
   },
+  {
+    institution: "대구대학교",
+    location: "경상북도 경산시",
+    degree: "메카트로닉스공학과",
+    period: "2021 - 2023",
+  },
+  {
+    institution: "대구사이버대학교",
+    location: "경상북도 경산시",
+    degree: "정보통신공학과",
+    period: "2019 - 2021",
+  }
 ];
 export const skills = {
   programmingLanguages: [
-    "LoremLang",
-    "IpsumScript",
-    "DolorLang",
-    "SitLang",
-    "AmetLang",
-    "ConsecteturLang",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "Python",
   ],
   frontendDevelopment: [
     "LoremJS",
