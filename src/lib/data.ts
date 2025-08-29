@@ -5,7 +5,7 @@ export const personalInfo = {
   github: "https://github.com/rippleeffect123",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "안녕하십니까.",
+    "안녕하십니까. 끈기와 성실함을 토대로 항상 새로운 도전을 하는 송해원입니다.",
 };
 
 export const workExperience = [
@@ -48,9 +48,9 @@ export const workExperience = [
 
 export const education = [
   {
-    institution: "Lorem Ipsum University",
-    location: "Lorem City",
-    degree: "BSc Lorem Ipsum",
+    institution: "한국폴리텍IV대학 대전캠퍼스",
+    location: "대전광역시 동구",
+    degree: "스마트소프트웨어학과",
     period: "2015 - 2019",
     achievements: [
       "President of Lorem Ipsum Club",
