@@ -10,38 +10,14 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "(주)대성정밀",
+    location: "경상북도 경산시 진량읍",
+    position: "CNC선반 공작원",
+    period: "Nov 2018 - Aug 2023",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
-    ],
-  },
-  {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
-    achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-    ],
-  },
-  {
-    company: "Consectetur Inc.",
-    location: "Adipiscing, Ipsum",
-    position: "Intern",
-    period: "Jun 2018 - Feb 2019",
-    achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
+      "정밀 부품 가공 및 CNC선반 운영 경험",
+      "생산 공정 개선 및 품질 관리 참여",
+      "팀 협업을 통한 생산 효율성 향상",
     ],
   },
 ];
@@ -55,8 +31,7 @@ export const education = [
     achievements: [
       "봉사동아리 '세옹' 회장",
       "부 학과대표",
-      "해원의 난 일으킴",
-      "현 학과대표",
+      "현 학과대표"
     ],
   },
   {
@@ -88,91 +63,60 @@ export const skills = {
   ],
   backendDevelopment: ["Spring Legacy", "Spring Boot","intelliJ"],
   databaseAndStorage: ["OracleDB", "PostgreSQL"],
-  cloudAndDevOps: ["LoremCloud"],
+  cloudAndDevOps: ["Vercel", "GitHub pages"],
   toolsAndServices: [
-    "LoremAuth",
-    "IpsumCMS",
-    "DolorAnalytics",
-    "SitValidator",
-    "AmetMonitor",
-    "ConsecteturPanel",
-    "AdipiscingTrigger",
+    "Git", "Figma", "Notion", "IntelliJ IDEA", "Eclipse", "Spring Tool Suite", "Visual Studio Code"
   ],
 };
 
 export const projects = [
   {
-    title: "Lorem Ipsum Project",
-    github: "https://github.com/loremipsum/project",
+    title: "HWLiquor",
+    github: "https://github.com/rippleeffect123/1grade2season/tree/master/HWLiquor",
     description: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
+      "양주 판매 및 정보제공 웹사이트",
+      "Spring Legacy 기반의 백엔드 개발",
+      "세션을 이용하여 사용자 인증 및 권한 관리 구현",
+      "HTML5, CSS3, JavaScript를 활용한 프론트엔드 개발",
+      "OracleDB를 사용한 데이터베이스 설계 및 관리",
     ],
   },
   {
-    title: "Dolor Sit Amet App",
-    github: "https://github.com/loremipsum/dolorapp",
+    title: "Oxiom",
+    github: "https://github.com/oxiom",
     description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
+      "Oxiom 중고상품 경매 플랫폼",
+      "Spring Boot 기반의 백엔드 개발",
+      "RESTful API 설계 및 구현",
+      "Spring Security와 JWT를 활용한 인증 및 권한 관리",
+      "React와 TailwindCSS를 사용한 프론트엔드 개발",
+      "PostgreSQL을 사용한 데이터베이스 설계 및 관리",
+      "Git과 Figma를 활용한 협업 및 디자인 작업",
+      "oxiom.myodan.me"
     ],
   },
 ];
 
 export const awards = [
   {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
+    name: "2025년도 캡스톤 프로젝트 작품 경진대회 및 전시회",
+    issuer: "한국폴리텍IV대학 대전캠퍼스",
+    date: "Oct 2025",
+    type: "교내 대회",
+    position: "은상",
   },
   {
-    name: "Dolor Sit Amet Prize",
-    issuer: "Ipsum Foundation",
-    date: "Feb 2021",
-    type: "National",
-    position: "Runner-up",
+    name: "인공지능 드론 경진대회",
+    issuer: "대한전자공학회",
+    date: "Jun 2024",
+    type: "전국 대회",
+    position: "은상",
   },
   {
-    name: "Consectetur Hackathon",
-    issuer: "Adipiscing Org",
-    date: "Mar 2022",
-    type: "National",
-    position: "Winner",
-  },
-  {
-    name: "Vestibulum Event",
-    issuer: "Vestibulum College",
-    date: "Apr 2022",
-    type: "National",
-    position: "First Prize",
-  },
-  {
-    name: "Curabitur Hackfest",
-    issuer: "Curabitur Institute",
-    date: "May 2022",
-    type: "National",
-    position: "Second Prize",
-  },
-  {
-    name: "Praesent Hacks",
-    issuer: "Praesent Group",
-    date: "Jun 2022",
-    type: "National",
-    position: "Second Runner-up",
-  },
-  {
-    name: "Fusce Hack",
-    issuer: "Fusce Club",
-    date: "Jul 2022",
-    type: "National",
-    position: "Most Impactful Hack",
+    name: "이그나이트 스토리텔링 대회",
+    issuer: "대한전자공학회",
+    date: "Apr 2024",
+    type: "전국 대회",
+    position: "입선상",
   },
 ];
