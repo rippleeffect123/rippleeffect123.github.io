@@ -10,6 +10,15 @@ export const personalInfo = {
 
 export const workExperience = [
   {
+    company: "(주)한밭자동제어",
+    location: "대전광역시 동구 비래동",
+    position: "R&D 사원",
+    period: "Feb 2026 - Now",
+    achievements: [
+      "에버그린 중앙ENG 협업으로 염색기 모니터링 시스템 개발"
+    ],
+  },
+  {
     company: "(주)대성정밀",
     location: "경상북도 경산시 진량읍",
     position: "CNC선반 공작원",
@@ -18,15 +27,6 @@ export const workExperience = [
       "정밀 부품 가공 및 CNC선반 운영 경험",
       "생산 공정 개선 및 품질 관리 참여",
       "팀 협업을 통한 생산 효율성 향상",
-    ],
-  },
-  {
-    company: "(주)한밭자동제어",
-    location: "대전광역시 동구 비래동",
-    position: "R&D 사원",
-    period: "Feb 2026 - Now",
-    achievements: [
-      "에버그린 중앙ENG 협업으로 염색기 모니터링 시스템 개발"
     ],
   },
 ];
