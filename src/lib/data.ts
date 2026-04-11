@@ -20,14 +20,33 @@ export const workExperience = [
       "팀 협업을 통한 생산 효율성 향상",
     ],
   },
+  {
+    company: "(주)한밭자동제어",
+    location: "대전광역시 동구 비래동",
+    position: "R&D 사원",
+    period: "Feb 2026 - Now",
+    achievements: [
+      "에버그린 중앙ENG 협업으로 염색기 모니터링 시스템 개발"
+    ],
+  },
 ];
 
 export const education = [
   {
+    institution: "대전대학교",
+    location: "대전광역시 동구",
+    degree: "IT소프트웨어공학과 석사과정",
+    period: "2026 - Now",
+    achievements: [
+      "학과대표",
+      "학교운영위원회 위원"
+    ],
+  },
+  {
     institution: "한국폴리텍IV대학 대전캠퍼스",
     location: "대전광역시 동구",
-    degree: "스마트소프트웨어과",
-    period: "2024 - 현재",
+    degree: "스마트소프트웨어과 전문학위과정",
+    period: "2024 - 2025",
     achievements: [
       "봉사동아리 '세옹' 회장",
       "부 학과대표",
@@ -37,7 +56,7 @@ export const education = [
   {
     institution: "대구대학교",
     location: "경상북도 경산시",
-    degree: "메카트로닉스공학과",
+    degree: "메카트로닉스공학과 공학사과정",
     period: "2021 - 2023",
   },
   {
@@ -53,6 +72,8 @@ export const skills = {
     "JavaScript",
     "TypeScript",
     "Python",
+    "C#",
+    "SQL"
   ],
   frontendDevelopment: [
     "HTML5",

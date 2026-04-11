@@ -49,6 +49,7 @@ export default function HeroSection() {
               variants={childVariants}
             >
               Web Developer 👨‍💻
+              Embeded Developer 🛠️
             </motion.p>
 
             <motion.div
