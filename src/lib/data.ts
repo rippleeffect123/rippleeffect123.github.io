@@ -133,6 +133,22 @@ export const projects = [
   },
 ];
 
+export const designProjects = [
+  {
+    title: "짜장방 웹사이트 디자인",
+    period: "2024",
+    image: "/design-projects/jjajangbang-web-design.jpg",
+    alt: "짜장방 중식당 웹사이트 디자인 프로젝트 보드",
+    description:
+      "한국폴리텍대학 대전캠퍼스 스마트소프트웨어과 프로젝트 작품전에 출품한 중식당 웹사이트 디자인입니다.",
+    details: [
+      "프로젝트 기획, 콘셉트 설정, UX 설계 및 메인·서브 화면 디자인",
+      "Noto Sans KR 서체와 레드·브라운 컬러 팔레트를 활용한 브랜드 아이덴티티 구성",
+      "대표 메뉴, 매장 소개, 위치 안내 등 사용자 탐색 흐름을 고려한 화면 구성",
+    ],
+  },
+];
+
 export const awards = [
   {
     name: "2025년도 캡스톤 프로젝트 작품 경진대회 및 전시회",
