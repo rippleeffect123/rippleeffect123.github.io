@@ -135,10 +135,10 @@ export const projects = [
 
 export const designProjects = [
   {
-    title: "짜장방 웹사이트 디자인",
+    title: "금송중식당 웹사이트 디자인",
     period: "2024",
     image: "/design-projects/jjajangbang-web-design.jpg",
-    alt: "짜장방 중식당 웹사이트 디자인 프로젝트 보드",
+    alt: "금송중식당 웹사이트 디자인 프로젝트 보드",
     description:
       "한국폴리텍대학 대전캠퍼스 스마트소프트웨어과 프로젝트 작품전에 출품한 중식당 웹사이트 디자인입니다.",
     details: [
