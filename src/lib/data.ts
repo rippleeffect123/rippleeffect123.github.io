@@ -5,7 +5,7 @@ export const personalInfo = {
   github: "https://github.com/rippleeffect123",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "안녕하십니까. 끈기와 성실함을 토대로 항상 새로운 도전을 하는 송해원입니다.",
+    "안녕하세요. 꾸준한 실행력과 책임감을 바탕으로, 새로운 도전을 가치 있는 결과로 만들어가는 송해원입니다.",
 };
 
 export const workExperience = [
